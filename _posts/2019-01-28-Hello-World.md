@@ -12,4 +12,4 @@ I am interested in understanding the role of technologies in energy and environm
 i also love to think about philosophy and religion. 
 
 My favorite anime is one piece!
-![Luffy](https://github.com/axs5498/axs5498.github.io/blob/master/images/luffyxmeat_by_pinwheeleatery-d9azjox.jpg)
+![Luffy](axs5498.github.io/images/luffyxmeat_by_pinwheeleatery-d9azjox.jpg)
