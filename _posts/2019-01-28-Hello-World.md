@@ -3,13 +3,12 @@ layout: post
 title: Hello World
 published: true
 ---
-This is **Ashok**. 
 
-My aspiration is to become a great researcher. 
+Here i am planning to summarize thoughts about the projects i am working in every week. 
 
-I am interested in understanding the role of technologies in energy and environmental challenges. I study this area through the lens of time use, life cycle assessment, and cost benefit analysis. 
+Current projects include: 
 
-i also love to think about philosophy and religion. 
+1) predicting latent constructs using open data 
+2) forecasting solar PV adoption model
+3) understanding how people spend their time and its relationship with energy and workforce policy 
 
-My favorite anime is one piece!
-![Luffy](/images/luffyxmeat_by_pinwheeleatery-d9azjox.jpg)
