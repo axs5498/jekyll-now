@@ -4,11 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! This is Ashok. I live in Austin. 
+
+My aspiration is to become a great researcher.
+
+I am interested in understanding the role of technologies in energy and environmental challenges. I study this area through the lens of time use, life cycle assessment, and cost benefit analysis.
+
+i also love to think about philosophy and religion.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love to run, hike, and play field hockey. 
+
+My favorite anime is one piece! 
+
+![](/images/luffyxmeat_by_pinwheeleatery-d9azjox.jpg)
 
 ### Contact me
 
