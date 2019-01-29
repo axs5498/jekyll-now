@@ -12,7 +12,4 @@ I am interested in understanding the role of technologies in energy and environm
 i also love to think about philosophy and religion. 
 
 My favorite anime is one piece, and zoro is my favorite character!
-
-![115410047-352-k530436.jpg]({{site.baseurl}}/_posts/115410047-352-k530436.jpg)
-
-
+![]({{site.baseurl}}/https://github.com/axs5498/axs5498.github.io/blob/master/images/luffyxmeat_by_pinwheeleatery-d9azjox.jpg)
