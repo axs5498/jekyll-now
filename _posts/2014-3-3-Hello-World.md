@@ -1,10 +1,18 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+This is ashok. 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My aspiration is to become a great researcher. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I am interested in understanding the role of technologies in energy and environmental challenges. I study this area through the lens of time use, life cycle assessment, and cost benefit analysis. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+i also love to think about philosophy and religion. 
+
+My favorite anime is one piece, and zoro is my favorite character!
+
+![115410047-352-k530436.jpg]({{site.baseurl}}/_posts/115410047-352-k530436.jpg)
+
+
